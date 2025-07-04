@@ -4,22 +4,22 @@ const bot = new Bot("7917423695:AAHcJunVQuctkEEZFni6nPC9FN3WMn27D_o");
 bot.command("portugal", (ctx) => {
   ctx.reply("Lissabon");
 });
-bot.command("ispaniya", (ctx) => {
+bot.command("spain", (ctx) => {
   ctx.reply("Madrid");
 });
-bot.command("fransiya", (ctx) => {
+bot.command("france", (ctx) => {
   ctx.reply("Parij");
 });
-bot.command("angliya", (ctx) => {
+bot.command("england", (ctx) => {
   ctx.reply("London");
 });
-bot.command("germaniya", (ctx) => {
+bot.command("germany", (ctx) => {
   ctx.reply("Berlin");
 });
-bot.command("irlandiya", (ctx) => {
+bot.command("ireland", (ctx) => {
   ctx.reply("Dublin");
 });
-bot.command("norvegiya", (ctx) => {
+bot.command("norway", (ctx) => {
   ctx.reply("Oslo");
 });
 
